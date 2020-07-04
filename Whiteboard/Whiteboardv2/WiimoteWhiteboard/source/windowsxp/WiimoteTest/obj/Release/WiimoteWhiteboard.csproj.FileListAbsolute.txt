@@ -1,0 +1,8 @@
+F:\FYP Presentation\WiimoteWhiteboardv03\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.csprojAssemblyReference.cache
+F:\FYP Presentation\WiimoteWhiteboardv03\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.CalibrationForm.resources
+F:\FYP Presentation\WiimoteWhiteboardv03\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Form1.resources
+F:\FYP Presentation\WiimoteWhiteboardv03\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Properties.Resources.resources
+F:\FYP Presentation\WiimoteWhiteboardv03\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.csproj.GenerateResource.cache
+F:\FYP Presentation\WiimoteWhiteboardv03\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.3.TrustInfo.xml
+F:\FYP Presentation\WiimoteWhiteboardv03\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.3.exe
+F:\FYP Presentation\WiimoteWhiteboardv03\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.3.pdb

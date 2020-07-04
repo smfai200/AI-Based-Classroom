@@ -1,0 +1,24 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WiimoteWhiteboard.Form1.resources
+obj\Debug\WiimoteWhiteboard.Properties.Resources.resources
+obj\Debug\WiimoteWhiteboard.csproj.GenerateResource.Cache
+bin\Debug\WiimoteWhiteboard.exe
+bin\Debug\WiimoteWhiteboard.pdb
+obj\Debug\WiimoteWhiteboard.exe
+obj\Debug\WiimoteWhiteboard.pdb
+obj\Debug\WiimoteWhiteboard.CalibrationForm.resources
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WiimoteWhiteboard.CalibrationForm.resources
+obj\Release\WiimoteWhiteboard.Form1.resources
+obj\Release\WiimoteWhiteboard.Properties.Resources.resources
+obj\Release\WiimoteWhiteboard.csproj.GenerateResource.Cache
+bin\Release\WiimoteWhiteboard v0.2.exe.config
+bin\Release\WiimoteWhiteboard v0.2.exe.manifest
+bin\Release\WiimoteWhiteboard v0.2.application
+bin\Release\WiimoteWhiteboard v0.2.exe
+bin\Release\WiimoteWhiteboard v0.2.pdb
+obj\Release\WiimoteWhiteboard v0.2.TrustInfo.xml
+obj\Release\WiimoteWhiteboard v0.2.exe.manifest
+obj\Release\WiimoteWhiteboard v0.2.application
+obj\Release\WiimoteWhiteboard v0.2.exe
+obj\Release\WiimoteWhiteboard v0.2.pdb

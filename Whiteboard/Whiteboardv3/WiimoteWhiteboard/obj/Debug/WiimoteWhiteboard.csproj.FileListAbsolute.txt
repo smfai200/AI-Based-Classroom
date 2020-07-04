@@ -1,0 +1,12 @@
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\bin\Debug\WiimoteWhiteboard.exe.config
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\bin\Debug\WiimoteWhiteboard.exe
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\bin\Debug\WiimoteWhiteboard.pdb
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\bin\Debug\WiimoteLib.dll
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\obj\Debug\WiimoteWhiteboard.csprojAssemblyReference.cache
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\obj\Debug\WiimoteWhiteboard.CalibrationForm.resources
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\obj\Debug\WiimoteWhiteboard.ConnectionController.resources
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\obj\Debug\WiimoteWhiteboard.WiimoteMainForm.resources
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\obj\Debug\WiimoteWhiteboard.csproj.GenerateResource.cache
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\obj\Debug\WiimoteWhiteboard.csproj.CopyComplete
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\obj\Debug\WiimoteWhiteboard.exe
+F:\FYP Presentation\WiimoteWhiteboard_1.2_src\WiimoteWhiteboard\obj\Debug\WiimoteWhiteboard.pdb

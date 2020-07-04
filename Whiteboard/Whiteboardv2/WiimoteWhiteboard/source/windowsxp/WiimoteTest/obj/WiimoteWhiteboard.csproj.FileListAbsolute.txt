@@ -1,0 +1,60 @@
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.exe.config
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.exe
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.pdb
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.CalibrationForm.resources
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Form1.resources
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Properties.Resources.resources
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.csproj.GenerateResource.Cache
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.TrustInfo.xml
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.exe.manifest
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.exe.manifest
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.application
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.exe
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.pdb
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.application
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Debug\WiimoteWhiteboard v0.2.exe.config
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Debug\WiimoteWhiteboard v0.2.exe.manifest
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Debug\WiimoteWhiteboard v0.2.application
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Debug\WiimoteWhiteboard v0.2.exe
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Debug\WiimoteWhiteboard v0.2.pdb
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\WiimoteWhiteboard.CalibrationForm.resources
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\WiimoteWhiteboard.Form1.resources
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\WiimoteWhiteboard.Properties.Resources.resources
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\WiimoteWhiteboard.csproj.GenerateResource.Cache
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\WiimoteWhiteboard v0.2.TrustInfo.xml
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\WiimoteWhiteboard v0.2.exe.manifest
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\WiimoteWhiteboard v0.2.application
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\WiimoteWhiteboard v0.2.exe
+C:\Users\johle.REDMOND\Desktop\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Debug\WiimoteWhiteboard v0.2.pdb
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.exe.config
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.exe
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.pdb
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.exe.manifest
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.application
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.exe
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.2.pdb
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.CalibrationForm.resources
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Form1.resources
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Properties.Resources.resources
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.csproj.GenerateResource.Cache
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.TrustInfo.xml
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.exe.manifest
+C:\Users\johle.REDMOND\Documents\Visual Studio 2005\Projects\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.2.application
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\ResolveAssemblyReference.cache
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.CalibrationForm.resources
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Form1.resources
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.Properties.Resources.resources
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard.csproj.GenerateResource.Cache
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.3.exe.config
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.3.exe.manifest
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.3.application
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.3.exe
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\bin\Release\WiimoteWhiteboard v0.3.pdb
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.3.TrustInfo.xml
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.3.exe.manifest
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.3.application
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.3.exe
+C:\dev\C#\WiimoteWhiteboard\source\windowsxp\WiimoteTest\obj\Release\WiimoteWhiteboard v0.3.pdb
